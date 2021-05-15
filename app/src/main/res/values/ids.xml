@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnDividir" type="id" />
+    <item name="btnmultiplicar" type="id" />
+    <item name="btnSuma" type="id" />
+    <item name="btnResta" type="id" />
+    <item name="editText" type="id" />
+    <item name="btnComa" type="id" />
+    <item name="btnCero" type="id" />
+    <item name="btnNueve" type="id" />
+    <item name="btnOcho" type="id" />
+    <item name="btnSiete" type="id" />
+    <item name="btnSeis" type="id" />
+    <item name="btnCinco" type="id" />
+    <item name="btnCuatro" type="id" />
+    <item name="btnTres" type="id" />
+    <item name="btnDos" type="id" />
+    <item name="btnUno" type="id" />
+    <item name="btnIgual" type="id" />
+    <item name="AC" type="id" />
+    <item name="btnLimpiar" type="id" />
+    <item name="btnBorrar" type="id" />
+    <item name="btnPorcentaje" type="id" />
+    <item name="bu1" type="id" />
+    <item name="bu2" type="id" />
+    <item name="bu3" type="id" />
+    <item name="bu4" type="id" />
+    <item name="bu5" type="id" />
+    <item name="bu6" type="id" />
+    <item name="bu7" type="id" />
+    <item name="bu8" type="id" />
+    <item name="bu9" type="id" />
+    <item name="bu0" type="id" />
+    <item name="buPunto" type="id" />
+    <item name="buDivision" type="id" />
+    <item name="buMultiplicacion" type="id" />
+    <item name="buSuma" type="id" />
+    <item name="buResta" type="id" />
+    <item name="buIgual" type="id" />
+    <item name="editTextText" type="id" />
+    <item name="bUBorrar" type="id" />
+    <item name="buAC" type="id" />
+    <item name="buPorcentaje" type="id" />
+</resources>
