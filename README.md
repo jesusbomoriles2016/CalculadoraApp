@@ -27,6 +27,7 @@ El nombre de la aplicación se define [aquí](https://github.com/jesusbomoriles2
 ![image](https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/img/img%20(3).png)
 
 **Vídeo Ejemplo:** Vídeo grabado en un teléfono Android con la APK instalada.
+https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/img/Calculadora.mp4
 
 **Para probar la APK, pulsar** [aquí](https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/app/release/CalculadoraApp.apk).
 
