@@ -14,9 +14,9 @@ Para cambiar el icono de la aplicación, nos vamos a New Image Asset.
 
 **Código:** El código está programado en Java.
 
-MainActivity.java pulsar [aquí](https://github.com/jesusbomoriles2016/EntornosDesarrollo20-21/blob/main/src/Unidad2/Sumador.java).
+MainActivity.java pulsar [aquí](https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/app/src/main/java/com/example/calculatooooor/MainActivity.java).
 
-El nombre de la aplicación se define [aquí](https://github.com/jesusbomoriles2016/EntornosDesarrollo20-21/blob/main/src/Unidad2/Sumador.java).
+El nombre de la aplicación se define [aquí](https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/app/src/main/res/values/strings.xml).
 
 **Vídeo Ejemplo:** Vídeo grabado en un teléfono Android con la APK instalada.
 
