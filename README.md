@@ -28,5 +28,5 @@ El nombre de la aplicación se define [aquí](https://github.com/jesusbomoriles2
 
 **Vídeo Ejemplo:** Vídeo grabado en un teléfono Android con la APK instalada.
 
-**Para probar la APK, pulsar** [aquí](https://github.com/jesusbomoriles2016/EntornosDesarrollo20-21/blob/main/src/Unidad2/Sumador.java).
+**Para probar la APK, pulsar** [aquí](https://github.com/jesusbomoriles2016/CalculadoraApp/blob/master/app/release/CalculadoraApp.apk).
 
